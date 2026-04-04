@@ -1,3 +1,3 @@
 # Portfolio-Management-System
 
-this is use for manage your porfolio effectively.
+this is use for manage your porfolio effectively
